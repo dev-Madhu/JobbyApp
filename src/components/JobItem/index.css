@@ -1,0 +1,49 @@
+.link-item {
+  text-decoration: none;
+  width: 100%;
+}
+.logo-card {
+  margin-top: 10px;
+  display: flex;
+  align-self: flex-start;
+  padding-left: 10px;
+}
+.company-logo {
+  width: 20px;
+  height: 20px;
+}
+.list-item {
+  list-style-type: none;
+  flex-shrink: 0;
+  background-color: #272727;
+  border-radius: 10px;
+  margin: 20px;
+}
+.title-box {
+  margin-left: 10px;
+}
+.star-box {
+  display: flex;
+  align-items: center;
+}
+
+.icon-box {
+  display: flex;
+  align-items: center;
+}
+.icons-container {
+  display: flex;
+  justify-content: space-between;
+}
+.content {
+  font-size: 16px;
+  color: white;
+}
+.package {
+  font-size: 20px;
+  font-weight: bold;
+}
+.super-box {
+  display: flex;
+  flex-direction: column;
+}
